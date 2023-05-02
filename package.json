@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "funkcijos": "nodemon .js-uzduotys/funkcijos.js",
+    "ciklas": "nodemon .js-uzduotys/ciklas.js", 
     "kintamieji": "nodemon ./js-uzduotys/kintamieji.js",
     "dev": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
